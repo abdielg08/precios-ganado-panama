@@ -2,7 +2,7 @@
 pdfs/*
 !pdfs/*.pdf
 data/*
-!data/precios_ganado_ejemplo.csv
+!data/precios_ganado_sin_outliers.csv
 !data/resumen.json
 
 # Python

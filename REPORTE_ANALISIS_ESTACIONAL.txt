@@ -1,0 +1,85 @@
+================================================================================
+ANÁLISIS ESTACIONAL DE PRECIOS DE GANADO EN PANAMÁ
+Sistema de Recomendaciones para Compra y Venta
+================================================================================
+
+📊 RESUMEN EJECUTIVO
+--------------------------------------------------------------------------------
+Precio promedio más bajo del año: B/. 1.74
+Precio promedio más alto del año: B/. 1.94
+Diferencia: B/. 0.20 (11.5% de margen potencial)
+
+🟢 MEJORES MESES PARA COMPRAR (Precios más bajos)
+--------------------------------------------------------------------------------
+1. Febrero
+   Precio promedio: B/. 1.74
+   Rango: B/. 0.85 - B/. 2.80
+   Registros analizados: 1,440
+
+2. Diciembre
+   Precio promedio: B/. 1.76
+   Rango: B/. 0.90 - B/. 2.80
+   Registros analizados: 2,196
+
+3. Enero
+   Precio promedio: B/. 1.78
+   Rango: B/. 0.95 - B/. 2.75
+   Registros analizados: 2,010
+
+🔴 MEJORES MESES PARA VENDER (Precios más altos)
+--------------------------------------------------------------------------------
+1. Junio
+   Precio promedio: B/. 1.94
+   Rango: B/. 1.05 - B/. 2.86
+   Registros analizados: 1,771
+
+2. Julio
+   Precio promedio: B/. 1.93
+   Rango: B/. 1.05 - B/. 2.87
+   Registros analizados: 2,130
+
+3. Mayo
+   Precio promedio: B/. 1.92
+   Rango: B/. 1.05 - B/. 2.86
+   Registros analizados: 1,962
+
+💡 ESTRATEGIA RECOMENDADA
+--------------------------------------------------------------------------------
+✓ COMPRAR en: Febrero (precio promedio: B/. 1.74)
+✓ VENDER en: Junio (precio promedio: B/. 1.94)
+✓ Ganancia potencial: B/. 0.20 por unidad (11.5% ROI)
+
+📍 MEJORES LUGARES PARA COMPRAR (Precios más bajos)
+--------------------------------------------------------------------------------
+1. COCLE: B/. 1.82 (3,456 registros)
+2. DARIEN: B/. 1.83 (3,221 registros)
+3. TORTI: B/. 1.83 (3,051 registros)
+4. BAGALA: B/. 1.84 (2,189 registros)
+5. CHEPO: B/. 1.84 (4,298 registros)
+
+📍 LUGARES CON PRECIOS MÁS ALTOS (Para venta)
+--------------------------------------------------------------------------------
+1. VERAGUAS: B/. 1.87 (4,360 registros)
+2. CHIRIQUI: B/. 1.98 (103 registros)
+3. TORTÍ: B/. 2.32 (90 registros)
+4. DARIÉN: B/. 2.35 (87 registros)
+5. BOQUERÓN: B/. 2.39 (90 registros)
+
+🐄 CATEGORÍAS MÁS TRANSADAS
+--------------------------------------------------------------------------------
+1. NOVILLA CRUZADA DE LECHE
+2. VACA CRUZADA DE LECHE PARA CEBA
+3. VACA DE CARNE PARA CEBA
+4. NOVILLA DE CARNE
+5. MEDIA CEBA DE CARNE
+
+⚠️  NOTAS IMPORTANTES
+--------------------------------------------------------------------------------
+• Los precios varían según categoría, raza y región
+• Los datos históricos no garantizan precios futuros
+• Considere factores como clima, demanda y costos operacionales
+• Verifique precios actuales antes de tomar decisiones
+
+================================================================================
+Reporte generado: 2025-10-20 22:20:30
+================================================================================
