@@ -1,0 +1,14 @@
+requests
+beautifulsoup4
+lxml
+pdfplumber
+pandas
+numpy
+tabula-py
+PyPDF2
+openpyxl
+python-dateutil
+plotly
+jupyter
+notebook
+ipywidgets
